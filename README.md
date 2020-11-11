@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Marcus - aka 0.olol  👋
+
+I'm 26 years old Machine Learning & Artificial Intelligence Enthusiast from Singapore.  
 
 ### Connect with me:
 
@@ -18,14 +20,15 @@
 <img align="left"  alt="0olol | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</br>
+</br>
+
+- 🔭 I’m currently working on my undergradute thesis;
+- 🌱 I’m currently learning Machine Learning, CNN and RNN;<!-- - 👯 I’m looking to collaborate on ... -->
+- 🤔 I’m looking for help with Machine Learning Projects;
+- 💬 Ask me about anything, I would do my best to help;
+- 📫 How to reach me: [@0_olol](https://www.instagram.com/0_olol/);
+- ⚡ Fun fact: A part-time Bartender, avid climber, and gamer;
 
 ### Languages and Tools:
 
